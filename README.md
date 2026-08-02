@@ -1,21 +1,24 @@
-# Souhila Gamal | Data Analyst 📊
+# Souhila Gamal | Data Analyst Portfolio 📊
 
-Welcome to my Data Analytics portfolio! Here I showcase end-to-end data analysis projects utilizing SQL, Python, Tableau, and Excel to derive business insights.
+Welcome to my personal Data Analytics portfolio! This repository showcases my end-to-end data analytics projects using SQL, Python, Tableau, and Excel.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills & Tools
+* *Data Analysis & Programming:* Python (Pandas, NumPy), SQL (Google BigQuery, Aggregations, Data Cleaning)
+* *Data Visualization & Tools:* Tableau Public, Excel, Git & GitHub, Markdown Documentation
 
-### 🚲 Cyclistic Bike-Share Case Study
-* **Overview:** Analyzed 2019–2020 trip data to discover distinct usage patterns between Annual Members and Casual riders.
-* **Tech Stack:** Google BigQuery (SQL), Tableau Public, Markdown Documentation.
-* **Explore Project:**
-  * 📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cycliste/Dashboard1)
-  * 📜 [Full Case Study & Documentation](./cyclistic_project/README.md)
-  * 💻 [SQL Queries Script](./cyclistic_project/cyclistic_analysis.sql)
+---
+
+## 🚀 Projects Index
+
+* 🚲 *[Cyclistic Bike-Share Analysis](./cyclistic_project/README.md)*  
+  Google Data Analytics Capstone Project – SQL & Tableau.
+
+<!-- Projects will be added here as you build more! -->
+
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [Souhila Gamal](https://linkedin.com)
-* **GitHub:** [souhila-gamal](https://github.com/souhila-gamal)
+* *GitHub:* [souhila-gamal](https://github.com/souhila-gamal)
 *
