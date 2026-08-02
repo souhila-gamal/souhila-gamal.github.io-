@@ -8,8 +8,8 @@ The ultimate goal is to provide data-driven recommendations for designing a targ
 ---
 
 ## 🔗 Project Deliverables & Artifacts
-* 📊 *Interactive Dashboard:* [View on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_HERE)
-* 📑 *Full Executive Summary (PDF):* [Download PDF Report](./Cyclistic_Case_Study_Report.pdf)
+* 📊 *Interactive Dashboard:* [View on Tableau Public](https://public.tableau.com/app/profile/souhia.gamal/viz/cyclisticshare/Dashboard1)
+* 📑 *Full Executive Summary (PDF):* [Download PDF Report](case_study_report.pdf)
 * 💻 *SQL Script:* [View Data Processing & Aggregation Queries](./cyclistic_analysis.sql)
 
 ---
