@@ -2,6 +2,12 @@
 
 # 🚲 Cyclistic Bike-Share Case Study
 *Google Data Analytics Capstone*
+> **Project Summary:** 
+> Analyzed 2019–2020 trip data using SQL (BigQuery) and Tableau to identify differences between Casual riders and Annual members.
+> 
+> 🔗 **Quick Links:** [📊 Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cycliste/Dashboard1) | [📄 Full PDF Report](./case_study_report.pdf) | [💻 SQL Queries](./cyclistic_analysis.sql)
+
+---
 
 ## 📌 Project Overview
 This case study is part of the *Google Data Analytics Professional Certificate. The primary objective is to analyze historical bike-share data from **Cyclistic* (a fictional bike-share company in Chicago) to understand how annual members and casual riders use Cyclistic bikes differently. 
