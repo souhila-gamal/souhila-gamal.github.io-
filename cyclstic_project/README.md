@@ -1,18 +1,25 @@
-⬅️ [Back to Portfolio](../)
+[⬅️ Back to Portfolio Home](https://souhila-gamal.github.io)
 
-# 🚲 Cyclistic Bike-Share Case Study
-*Google Data Analytics Capstone*
-> **Project Summary:** 
-> Analyzed 2019–2020 trip data using SQL (BigQuery) and Tableau to identify differences between Casual riders and Annual members.
-> 
-> 🔗 **Quick Links:** [📊 Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cycliste/Dashboard1) | [📄 Full PDF Report](./case_study_report.pdf) | [💻 SQL Queries](./cyclistic_analysis.sql)
+## 🚲 Cyclistic Bike-Share Case Study
+> **Google Data Analytics Capstone Project**
 
 ---
 
-## 📌 Project Overview
-This case study is part of the *Google Data Analytics Professional Certificate. The primary objective is to analyze historical bike-share data from **Cyclistic* (a fictional bike-share company in Chicago) to understand how annual members and casual riders use Cyclistic bikes differently. 
+### 📋 Overview
+Analyzed 12 months of historical trip data (2019–2020) to identify how Annual Members and Casual riders use Cyclistic bikes differently, providing data-driven recommendations to increase membership conversions.
 
-The ultimate goal is to provide data-driven recommendations for designing a targeted marketing strategy to convert casual riders into loyal annual members.
+---
+
+### 🔗 Project Deliverables & Links
+* 📊 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cycliste/Dashboard1)**
+* 💻 **[BigQuery SQL Analysis Script](./cyclistic_analysis.sql)**
+* 📄 **[Download Full PDF Report](./case_study_report.pdf)**
+
+---
+
+### 💡 Key Insights
+* **Usage Patterns:** Casual riders bike significantly longer on weekends for leisure, while Annual members have peak usage during weekday commute hours.
+* **Recommendations:** Target Casual riders with seasonal weekend-to-annual membership conversion promotions.
 
 ---
 
