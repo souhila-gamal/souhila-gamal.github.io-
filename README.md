@@ -12,7 +12,7 @@ Welcome to my personal Data Analytics portfolio! This repository showcases my en
 
 ## 🚀 Projects Index
 
-* 🚲 *[Cyclistic Bike-Share Analysis](./cyclistic_project/README.md)*  
+* 🚲 *[Cyclistic Bike-Share Analysis](cyclstic_project)*  
   Google Data Analytics Capstone Project – SQL & Tableau.
 
 <!-- Projects will be added here as you build more! -->
