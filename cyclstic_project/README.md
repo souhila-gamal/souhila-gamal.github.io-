@@ -11,7 +11,7 @@ Analyzed 12 months of historical trip data (2019–2020) to identify how Annual 
 ---
 
 ### 🔗 Project Deliverables & Links
-* 📊 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cycliste/Dashboard1)**
+* 📊 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/souhia.gamal/viz/cyclisticshare/Dashboard1)**
 * 💻 **[BigQuery SQL Analysis Script](./cyclistic_analysis.sql)**
 * 📄 **[Download Full PDF Report](./case_study_report.pdf)**
 
